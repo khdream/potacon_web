@@ -19,7 +19,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div className='max-w-[300px] m-auto bg-[#fafafa] w-[90%] max-h-[70%] shadow-[0_8px_10px_1px_rgba(0,0,0,0.14),0_3px_14px_2px_rgba(0,0,0,0.12),0_5px_5px_-3px_rgba(0,0,0,0.3)]'>
                     <div className='p-[13px] pb-[17px] text-center'>
-                        <h5 className='my-[10px] text-[1.64rem] leading-[110%] text-center'>データがありません</h5>
+                        <h5 className='my-[10px] text-[1.65rem] leading-[110%] text-center'>データがありません</h5>
                         <hr className='border-[1px] border-[#1cb8ee]'></hr>
                         <h5 className='my-[10px] text-[1.64rem] leading-[110%] text-center'>メインに戻ります</h5>
                         <button className=''><img src={CHECK_IMAGE} alt="" /></button>

@@ -49,14 +49,6 @@ const Home: React.FC = () => {
                         <button className='w-full inline-grid items-center h-[78px] relative leading-[52px] text-[20px] text-white outline-0 rounded-[6px] bg-[#80B4C2] shadow-sm hover:shadow-md'>終了</button>
                     </div>
                 </div>
-                {/* <div className='ml-auto mr-auto mb-[20px]'>
-                        <div className='px-[3px] w-1/3 ml-auto text-right'>
-                            <button className='w-[80%] inline-grid items-center rounded-[6px] text-[16px] bg-[#3a4aa6] leading-normal h-[60px] px-[10px]'>待ち受け画面</button>
-                        </div>
-                        <div className='px-[10px] w-1/3 ml-auto text-right float-left'>
-                            <button className='w-full inline-grid relative items-center rounded-[6px] text-[16px] bg-[#3a4aa6] leading-normal h-[60px] px-[10px]'>アプリ一覧</button>
-                        </div>
-                    </div> */}
             </div>
         </div>
     )
