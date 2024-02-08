@@ -1,0 +1,5 @@
+export const GO_BACK_IMAGE = './images/go_back.png'
+export const CHECK_IMAGE = './images/check.png'
+export const CALL_IMAGE = './images/call.png'
+export const CLOSE_IMAGE = './images/close.png'
+export const EDIT_IMAGE = './images/edit.png'
